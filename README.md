@@ -1,4 +1,4 @@
-# Visualizing COVID 19
+# VisualizingCOVID 19
 Project Visualizing COVID-19
 
 - Topic : Data Visualization
